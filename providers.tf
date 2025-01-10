@@ -10,8 +10,8 @@ terraform {
 }
 
 provider "aws" {
-  region  = "us-east-1"
-  profile = "Helen"
+  region  = "us-east-2"
+  profile = "default"
   # Configuration options
 }
 
